@@ -1,3 +1,2 @@
-# واجهة المستخدم الأمامية (Frontend)
-هذا المجلد يحتوي على كود الواجهة الأمامية للمنصة (تطبيقات الويب أو الموبايل).
-Added initial README for frontend directory.
+# الواجهة الأمامية (Frontend)
+هذا المجلد مخصص لكود واجهة المستخدم، مثل HTML، CSS، JavaScript، وأطر العمل (React/Vue.js).
